@@ -211,3 +211,50 @@ whereis git
 cd /usr/share/man/man1/
 ls
 ll | grep *git*
+ls
+cd cd /var/lib/jenkins/workspace/my_first_maven_build/webapp/target/
+cd /var/lib/jenkins/workspace/my_first_maven_build/webapp/target/
+ls
+ll
+pwd
+ll
+date
+ll
+git clone https://github.com/the-bhuvan-7/devops-testing-jenkin.git
+ll
+git clone https://github.com/the-bhuvan-7/devops-testing-jenkin.git
+date
+rm -rf devops-testing-jenkin/
+ll
+git pull  https://github.com/the-bhuvan-7/devops-testing-jenkin.git
+vi webapp/src/main/webapp/index.jsp 
+git status 
+pwd
+ls
+git add .
+git commit -m "commit for test poll SCM"
+git status 
+git push origin master 
+vi webapp/src/main/webapp/index.jsp 
+git add .
+git commit -m "Second commit for test poll SCM"
+git status 
+git push origin master 
+pwd
+ll
+systemctl status jenkins.service 
+ls
+ll
+pwd
+cd /var/lib/jenkins/workspace/
+ls
+cd deploy_on_tomcat_server/
+ls
+cd webapp/
+ls
+cd target/
+ll
+pwd
+ll
+cd
+ls
